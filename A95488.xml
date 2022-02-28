@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fathers counsell. Or, Certain usefull directions, for all young persons, especially elder brothers, whose portion it is or may be, in these perilous daies, to be left in a fatherlesse or friendlesse condition. / By W.T.</title>
+            <author>Tipping, William, 1598-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95488</idno>
+            <idno type="STC">Wing T3565</idno>
+            <idno type="STC">Thomason E1111_4</idno>
+            <idno type="STC">ESTC R208441</idno>
+            <idno type="EEBO-CITATION">99867395</idno>
+            <idno type="PROQUEST">99867395</idno>
+            <idno type="VID">119705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119705)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 163:E1111[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fathers counsell. Or, Certain usefull directions, for all young persons, especially elder brothers, whose portion it is or may be, in these perilous daies, to be left in a fatherlesse or friendlesse condition. / By W.T.</title>
+                  <author>Tipping, William, 1598-1649.</author>
+               </titleStmt>
+               <extent>[2], 43, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.M. for Christopher Meredith at the signe of the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644. [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.T. = William Tipping.</note>
+                  <note>Thomason received his copy in October 1643.</note>
+                  <note>Annotation on Thomason copy: "Octo: 14 1643"; the 4 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Young men --  England --  Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119705:1" rendition="simple:additions"/>
+            <p>THE FATHERS COVNSELL.</p>
+            <p>OR, Certain uſefull Dire<g ref="char:EOLhyphen"/>ctions, for all young per<g ref="char:EOLhyphen"/>ſons, eſpecially elder Bro<g ref="char:EOLhyphen"/>thers, whoſe portion it is or may be, in theſe perilous <hi>daies, to be left in a Fa<g ref="char:EOLhyphen"/>therleſſe or Friend<g ref="char:EOLhyphen"/>leſſe Condition.</hi>
+            </p>
+            <p>By <hi>W. T.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G M,</hi> for <hi>Chriſtopher Meredith</hi> at the ſigne of the Crane in <hi>Pauls</hi> Church-yard, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119705:2"/>
+            <pb n="1" facs="tcp:119705:2"/>
+            <head>THE FATHERS COUNSELL.</head>
+            <opener>
+               <salute>My Sonne,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">G</seg>OD hath given thee thy be<g ref="char:EOLhyphen"/>ing, in a dole<g ref="char:EOLhyphen"/>full age, thou liveſt in times ſtreaming in bloud, abounding in ſinne; and alas, therefore bloudy, becauſe ſinfull, and thine
+<pb n="2" facs="tcp:119705:3"/>unhappineſſe is the greater, (though perchance thy feare be the leſſe) that thy bloſſome years, render thee unſenſible of the preſent miſery. Life is now, to them that can judge of it, a ſad and melancholy thing, death uncertain, yet at our doors, friends proove flaggy, and foes mercileſſe, the world deceitfull, diſtractions rage within us and dangers with<g ref="char:EOLhyphen"/>out us, GODS judgements round about us, and this is the temper of theſe times; And now my Sonne, how wilt thou demeane thy ſelfe, in this comfortleſſe conditi<g ref="char:EOLhyphen"/>on.
+<pb n="3" facs="tcp:119705:3"/>To reſt upon Friends is but a fading ſhelter, Alas how many perils be there on all ſides, to take them from thee. To reſt on other meanes, they may proove but broken reeds, for where the Enemy comes, he com<g ref="char:EOLhyphen"/>monly ſweepes cleane and leaves men, almoſt as naked to the world, as Nature brought them into it; Now where Friends and humane Supports fail, what ſhall be thy Refuge? Why, let <hi>Da<g ref="char:EOLhyphen"/>vias</hi> charge to his ſoule, be the practiſe of thine, <hi>Put thy truſt in God.</hi> Put thy truſt in God, for God and a good
+<pb n="4" facs="tcp:119705:4"/>conſcience in Sunſhine daies are the ſweeteſt joyes, and in the times of trouble the ſafeſt harbours, when ſtormes ariſe, and windes blow, and billowes ſwell, and no Haven appeares, but bloud and death riot in all places, yet even then an honeſt and ſincere heart, which hath made it's peace with God through Chriſt, is as ſafely harboured as <hi>Noah</hi> in his Arke, when the waves ſurrounded him. Now, my Sonne, becauſe it is not gi<g ref="char:EOLhyphen"/>ven mee to know to what times, or length of dayes God hath reſerved thee, and
+<pb n="5" facs="tcp:119705:4"/>for that it may poſſibly be thy portion, to ſurvive the calamities this preſent age groanes under, and per<g ref="char:EOLhyphen"/>chance in the meane time looſe all thoſe faithfull Friends, to whoſe counſels forthy Education, God and Nature hath ingaged thee, I thought it fit to leave thee in ſupply of other helpes, theſe enſuing Di<g ref="char:EOLhyphen"/>rections</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, Know this, and lay it up in the Cloſet of your heart, as your deareſt and chiefeſt meditation, That <hi>the feare of the Lord is the be<g ref="char:EOLhyphen"/>ginning of wiſdome:</hi> A good
+<pb n="6" facs="tcp:119705:5"/>underſtanding have they that doe thereafter, the pariſe of it endures for e<g ref="char:EOLhyphen"/>ver.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> For your carriage to<g ref="char:EOLhyphen"/>wards God let it be even, cloſe and regular, walk ſul<g ref="char:EOLhyphen"/>ly with him, reſt firmely on him, therefore take ſpeciall heed of ſpiritual diſtempers, to be ſometimes hot, ſome<g ref="char:EOLhyphen"/>times cold, ſometimes luke<g ref="char:EOLhyphen"/>warme, but labour for ſta<g ref="char:EOLhyphen"/>bility in Religion, as well as truth, for this will arme you againſt the breakings out of your corrupt heart, and againſt thoſe diverſities of temptations which the
+<pb n="7" facs="tcp:119705:5"/>world and the devill will be ſure to caſt upon thee.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> For your carriage to<g ref="char:EOLhyphen"/>wards men, and your ordi<g ref="char:EOLhyphen"/>nary demeanour in the ge<g ref="char:EOLhyphen"/>nerall courſe of your life, ſee your dealings be faire, your words faithfull, your heart ſincere, your conver<g ref="char:EOLhyphen"/>ſation lovely, let thy life ſpeake thy Religion, rather then thy Diſcourſe, be cour<g ref="char:EOLhyphen"/>teous towards all, but fami<g ref="char:EOLhyphen"/>liar onely with the beſt, and make ſuch your boſome friends, in whoſe choice ſociety you may happily ei<g ref="char:EOLhyphen"/>ther doe, or receive ſome good. This courſe will be<g ref="char:EOLhyphen"/>gin
+<pb n="8" facs="tcp:119705:6"/>you a Heaven upon Faith, and keepe your ſoul alwa es in an improoving condition.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> What ever your ſtate of life ſhall be, whether conju<g ref="char:EOLhyphen"/>gall or ſingle, be ſure to ex<g ref="char:EOLhyphen"/>erciſe your abilities, in ſome particular calling, I wiſh it may be in the Miniſtery, this is the chiefeſt in my deſires, and I pray God it may proove the deareſt in your affections, but I ſpeake this in way of adviſe, not injun<g ref="char:EOLhyphen"/>ction, for the bent and rea<g ref="char:EOLhyphen"/>dy inclination of your mind muſt much direct your choice in this particular, but
+<pb n="9" facs="tcp:119705:6"/>however your <hi>Genius</hi> frame, I here charge you, that as you tender the admonition of a Father, to whoſe faith<g ref="char:EOLhyphen"/>full Inſtructions God hath obliged you, that you deteſt with a perfect hatred, that ſpecious, but pernicious ſinne of idleneſſe, Yea that you abhorre and abandon it with as much indignation as you would a poiſonfull Serpent; for this deſtruct<g ref="char:EOLhyphen"/>ive vice will render you diſ<g ref="char:EOLhyphen"/>pleaſing to God, unprofita<g ref="char:EOLhyphen"/>ble to the world, unfruitfull in your Familie, contagi<g ref="char:EOLhyphen"/>ous to all men, ſcandalous to the beſt, and burthen ſom
+<pb n="10" facs="tcp:119705:7"/>to your ſelfe, believe it, God hath not placed man on Earth, as the Leviathan in the Sea, to take his paſtime therein, <hi>But man</hi> (ſaith <hi>Iob</hi>) <hi>is borne to labour; as the ſparkes flie upward,</hi> ſo natu<g ref="char:EOLhyphen"/>rally. And here let no elder Brother ſhelter himſelfe un<g ref="char:EOLhyphen"/>der is faire eſtate, or plead the Inheritance of his Fa<g ref="char:EOLhyphen"/>ther, for his ſloth, for <hi>Caine</hi> and <hi>Abel,</hi> though heires of the whole world had their imploiments; and the pre<g ref="char:EOLhyphen"/>cept is generall reaching in all degrees of perſons, <hi>Of the ſweat of thy browes ſhalt thou eat thy bread.</hi>
+            </p>
+            <pb n="11" facs="tcp:119705:7"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> As for the ordering of the eſtate wherewith God ſhall intruſt you, for you muſt remember you are but his <hi>Steward,</hi> be frugall, but not baſe, circumſpect, but not unjuſt, One pennie in a pound ill gotten, may like a theefe in the Candle, eate out all the reſt of your in<g ref="char:EOLhyphen"/>creaſe, Inlarge your heart in works of mercie towards others, as God ſhall be plea<g ref="char:EOLhyphen"/>ſed, to inlarge his hand of bountie towards you. This is the ſureſt waie to make your life more comfortable and your eſtate more full. Let your Hoſpitalitie be
+<pb n="12" facs="tcp:119705:8"/>moderate, and according to the meaſure of thy eſtate, rather plentifull then ſpa<g ref="char:EOLhyphen"/>ring, but not coſtly, for I never knew any grow poor by keeping an orderly Ta<g ref="char:EOLhyphen"/>ble, but ſome conſume themſelves through ſecret vices, and then Hoſpitali<g ref="char:EOLhyphen"/>tie beares the blame. Bee ſure to baniſh drunkenneſſe out of thy houſe, which is a ſwiniſh vice, and doth im<g ref="char:EOLhyphen"/>paire the health, both of bodie and ſoule, conſumes much and makes no ſhew.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Let it be the buſineſſe of thine heart, as well as of thine eie to have religious
+<pb n="13" facs="tcp:119705:8"/>Exerciſes, conſtantly per<g ref="char:EOLhyphen"/>formed in thy Familie, twice in the daie at the leaſt, if not oftner, beſides thy private Devotions; And that the ſame may bee performed with ſuch honour, regard and reverence, as becomes ſo high a worke, poſt not off that ſervice to ſome ordi<g ref="char:EOLhyphen"/>narie Servant (as is too commonly done) (for who is ſufficient for theſe things) but diſcharge it zealouſly diſtinctly and un<g ref="char:EOLhyphen"/>derſtandingly in thine owne perſon; Take heed of car<g ref="char:EOLhyphen"/>rying on theſe Exerciſes in thy houſhold as a ſet and
+<pb n="14" facs="tcp:119705:9"/>impoſed taske onely, as thinking vvhen the praiers are ended, the buſineſſe is done. I tell thee, thou mai<g ref="char:EOLhyphen"/>eſt ſpeake much to God and pray little; This buſineſſe is a work of the inner man; and therefore whatſoever you doe for God, doe it with all your might; Call in your will, underſtanding, affe<g ref="char:EOLhyphen"/>ctions, all the faculties of your ſoule to give atten<g ref="char:EOLhyphen"/>dance on this dutie. One thing more, if any ſudden and unexpected accident have mooved thy paſſions, and raiſed ſome tempeſt within thee; O pray not to
+<pb n="15" facs="tcp:119705:9"/>God in that temper, but ap<g ref="char:EOLhyphen"/>proach thou to God, as God came to <hi>Elijah, in a qui<g ref="char:EOLhyphen"/>et and ſtill voyce, not in a whirlewind.</hi> God is a God of love and peace, and ther<g ref="char:EOLhyphen"/>fore compoſe thy heart and becalme all diſtempers in thy minde before thou pre<g ref="char:EOLhyphen"/>ſume into the preſence of ſo high a Majeſtie.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> And here <hi>(my Sonne)</hi> I muſt admoniſh thee of a ne<g ref="char:EOLhyphen"/>ceſſarie dutie, the which in<g ref="char:EOLhyphen"/>deed (ſhame to this inligh<g ref="char:EOLhyphen"/>tened and knowing age) is little knowne and leſſe pra<g ref="char:EOLhyphen"/>ctiſed, that is, the Catechi<g ref="char:EOLhyphen"/>zing and inſtructing of ſer<g ref="char:EOLhyphen"/>vants
+<pb n="16" facs="tcp:119705:10"/>and children in the grounds of Religion, in pri<g ref="char:EOLhyphen"/>vate Families, by the Ma<g ref="char:EOLhyphen"/>ſters and Governours there<g ref="char:EOLhyphen"/>of; Which courſe were it more generally and effectu<g ref="char:EOLhyphen"/>ally ſet upon, certainly God would be more glorified, his Word and Sacraments, more reverently handled, and the People better edifi<g ref="char:EOLhyphen"/>ed, then our former daies have ſeene. I know well the dutie of Catechizing (the generall neglect wherof the Land hath cauſe to lament with teares of bloud) doth properly belong to the Pa<g ref="char:EOLhyphen"/>ſtorall charge, yet all Ma<g ref="char:EOLhyphen"/>ſters
+<pb n="17" facs="tcp:119705:10"/>of Families are or ought to be, like <hi>Abraham</hi> and <hi>Ioſhuah,</hi> Prieſts and Pro<g ref="char:EOLhyphen"/>phets in their owne houſes, and helpe laie the foundati<g ref="char:EOLhyphen"/>on of Religion in the peo<g ref="char:EOLhyphen"/>ples hearts, that ſo by both working together, the buſi<g ref="char:EOLhyphen"/>neſſe might be advanced to a more glorious improove<g ref="char:EOLhyphen"/>ment; were this neceſſary dutie throughly preſſed, and underſtandingly carried on through all parts of this Kingdome, then ſhould we not to our ſcandall and ſcorne, ſee ſo many Schiſ<g ref="char:EOLhyphen"/>mes in our Church, ſo ma<g ref="char:EOLhyphen"/>ny diſorders and fractions
+<pb n="18" facs="tcp:119705:11"/>in the State, ſuch diverſities of opinions broached a<g ref="char:EOLhyphen"/>mongſt us, ſuch unmanner<g ref="char:EOLhyphen"/>ly and unreverent carriage in Gods worſhip in many places. In a word, then ſhould wee not ſee ſo many thouſand poore ſoules periſh for want of knowledge, wal<g ref="char:EOLhyphen"/>king in the darke waies of their owne ſeduced hearts, and acting all things as their luſts, or (perchance) ſome ignorant leaders guide them. <hi>My Sonne,</hi> according to thy place, power and parts do thou thy dutie in this parti<g ref="char:EOLhyphen"/>cular, and ſtirre up others in the proſecution hereof,
+<pb n="19" facs="tcp:119705:11"/>as knowing that hee which converts a ſoule from the errour of his waie, ſhall ſhine as the Starres in the Firma<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> If it ſhall pleaſe God to bring thee tomans eſtate, uſe exceeding great care and caution in the choice of thy wife, if thy affections incline that waie. And herein in the firſt place ſeeke unto God to counſell thee, and he will direct thy path, you have his promiſe for it, <hi>Prov.</hi> 3.6. <hi>in all thy ways ac<g ref="char:EOLhyphen"/>knowledge him</hi> (ſaith <hi>Solomon</hi>) <hi>and he ſhall direct thy wayes:</hi> This adviſe is better
+<pb n="20" facs="tcp:119705:12"/>known then well improved, often ſpoken, exceeding, ſeldome done, but take you Gods word for good ſecu\ritie, beleeve it, the <hi>Pſalmiſts</hi> words are true, <hi>Pſalm.</hi> 9.10. <hi>Hee never faileth them that ſeeke him;</hi> Now when you have conſulted with God, be induſtriouſly inquiſitive into the diſpoſition, inclination, ſtocke, but eſpecially the Religion of the partie com<g ref="char:EOLhyphen"/>mended to your choice, for its heavie drawing in an un<g ref="char:EOLhyphen"/>even yoak, and however it be true, that parentage, parts and portion are good In<g ref="char:EOLhyphen"/>gredients in your match, yet
+<pb n="21" facs="tcp:119705:12"/>theſe muſt not be the princi<g ref="char:EOLhyphen"/>ples to guide your choice, let her be gracious rather then great, yet richly ador<g ref="char:EOLhyphen"/>ned, I meane, <hi>all glorious within,</hi> and then what ever imperfections ſhall ariſe from her nature, they will be her urthen as well as thine; Religion is the ſwee<g ref="char:EOLhyphen"/>teſt and ſtrongeſt tie, and thoſe that are ſo conjoyned, nothing but death, nay in truth, neither life nor death can part them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> If God ſhall be pleaſed to bleſſe you hereafter with a<g ref="char:EOLhyphen"/>ny children, be carefull to preſent before their bloſſom
+<pb n="22" facs="tcp:119705:13"/>yeares, an unblameable life, in your owne example, For your perſonall demeanour and ordinarie carriage a<g ref="char:EOLhyphen"/>mongſt them will have a ve<g ref="char:EOLhyphen"/>rie powerfull Influence upon their diſpoſitions, they be<g ref="char:EOLhyphen"/>ing alwaies exceedingly in<g ref="char:EOLhyphen"/>clined to take in the habits either of vertue or vice from their parents footſteps. And therefore if you find any na<g ref="char:EOLhyphen"/>turall Infirmities (be it paſſion) or any other innate qualitie) tolie ſtrong upon you, la<g ref="char:EOLhyphen"/>bour to beare downe the ſtrength therof at all times, but eſpecially in the preſence of your children, leaſt your
+<pb n="23" facs="tcp:119705:13"/>actuall breakings out, in<g ref="char:EOLhyphen"/>flame their ſparkes, and cauſe thoſe ill ſeeds to budd forth in them, which your nature hath ſetled in their bloud. Certainely much Chriſtian prudence may be ſhewed in the education of Children, by ſtopping the ſtreame of their inclinations in the budd, before they flow too high, and by ſea<g ref="char:EOLhyphen"/>ſoning their mind with reli<g ref="char:EOLhyphen"/>gious principles before their corruptions are fortified in them, otherwiſe at will prove true, <hi>Difficulter eradi<g ref="char:EOLhyphen"/>catur quod rudes animi combi<g ref="char:EOLhyphen"/>berunt.</hi>
+            </p>
+            <pb n="24" facs="tcp:119705:14"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> In your ordinarie Conver<g ref="char:EOLhyphen"/>ſation amongſt your chil<g ref="char:EOLhyphen"/>dren, be not ſo indulgently familiar, as to make them forget their diſtance, nor ſo rigoriouſly auſteere,as to diſ<g ref="char:EOLhyphen"/>courage them. I am perſwa<g ref="char:EOLhyphen"/>ded the fooliſh cockering of ſome Parents, and the over<g ref="char:EOLhyphen"/>ſterne carriage of others, cau<g ref="char:EOLhyphen"/>ſeth more men and women to miſcarrie, then their own vicious inclinations.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> Give your children a com<g ref="char:EOLhyphen"/>petent maintenance accor<g ref="char:EOLhyphen"/>ding to your abilitie, other<g ref="char:EOLhyphen"/>wiſe your life will ſeem their bondage, and what portion you ſhall leave them, they
+<pb n="25" facs="tcp:119705:14"/>will thanke death for it, not you Bring them up in Reli<g ref="char:EOLhyphen"/>gion, learning and obedi<g ref="char:EOLhyphen"/>ence, and neglectnot to ſettle them in ſome honeſt vocati<g ref="char:EOLhyphen"/>on; for if thou doeſt not im<g ref="char:EOLhyphen"/>ploy thy children, the devill will. Better thy ſonne were a basket-maker then an idle droane.</p>
+            <p>As concerning the orde<g ref="char:EOLhyphen"/>ring of thy Familie, let that be like a little Citie compa<g ref="char:EOLhyphen"/>cted in it ſelfe. Vnitie and unanimitieare beautifull ac<g ref="char:EOLhyphen"/>commodations in everie houſhold, and where they are advanced and preſerved inviolable, they facilitate
+<pb n="26" facs="tcp:119705:15"/>domeſticall imploiments, cauſing them to be carried on with more alacritie and ſweetneſſe. In a word, where Truth and Peace, in any ci<g ref="char:EOLhyphen"/>vill ſocietie, doe kiſſe each other, and goe hand in hand together, they uſher in Gods love, and do clearly evidence that God is in that place in<g ref="char:EOLhyphen"/>deed, for it is God that makes men to be of one mind in a houſe: Therefore labour earneſtly in thy Familie to make good the Apoſtolical counſell, namely to keepe the <hi>unity of the Spirit in the bond of peace.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> Let thy friends and allies
+<pb n="27" facs="tcp:119705:15"/>be welcome to thy Table, grace them with thy coun<g ref="char:EOLhyphen"/>tenance, and further them in all honeſt actions, for by this means thou ſhalt ſo dou<g ref="char:EOLhyphen"/>ble the bond of nature, as that thou ſhalt find them ſo many Advocates, to pleade and apologize for thee, be<g ref="char:EOLhyphen"/>hind thy backe. But ſhake off thoſe Gloworms, I mean Paracits and Sychophonts, who will feed and fawne up<g ref="char:EOLhyphen"/>on thee, in the Summer of thy proſperity, but in adverſe ſtormes will ſhelter thee, no more then an arbour in win<g ref="char:EOLhyphen"/>ter.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> Vndertake no ſuit againſt
+<pb n="28" facs="tcp:119705:16"/>a poore man without recei<g ref="char:EOLhyphen"/>ving much wrong, for be<g ref="char:EOLhyphen"/>ſides that thou makeſt him thy competitour; it is a baſe conqueſt to triumph where there is ſmall reſiſtance, and can be little gaine; neither attempt Law againſt any man, before thou be ſure, thou haſt right on thy ſide, and then ſpare for neither monie nor pains, for a cauſe or two ſo followed and ob<g ref="char:EOLhyphen"/>tained may free the from ſuits a great part of thy life.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> Carrie thy mind equally poyſed through all conditi<g ref="char:EOLhyphen"/>ons that ſhall befall thee, if God be gracious to thee in a
+<pb n="29" facs="tcp:119705:16"/>large diſpenſation of his bleſſings, be thankefull, but not ſecure, perchance ſome ſtorm may be neare at hand, and its wiſdome in the midſt of abundance to expect a change or, on the otherſide, if God ſhallcaſt thee under a Cloud, lay ſome preſſure up<g ref="char:EOLhyphen"/>on thee, be humble, but not diſcouraged, perchance God will have the world become more bitter to thee, that himſelfe may become more ſweet.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15"/> What ever thou wouldeſt judge beſt, if thou wert now to dye, the ſame thinke al<g ref="char:EOLhyphen"/>waies beſt, even in thy moſt
+<pb n="30" facs="tcp:119705:17"/>healthfulleſt condition, for howſoever a ſeduced heart doth deceive us, certainely that whih is beſt at laſt is beſt at firſt too, and that is the hap<g ref="char:EOLhyphen"/>pieſt life which is ruled by dying Principles.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> When thou ſeeſt ſo much buſſing and diſtemper in the world, caſt with thy ſelf, who would bottom his ſoul upon ſo baſe a foundation, and un<g ref="char:EOLhyphen"/>certain hold, and be incited hereupon to looke upwards, and labour with all thy might to get an intereſt in Jeſus Chriſt, for union with him alwaies drawes ſafetie and protection from him; And
+<pb n="31" facs="tcp:119705:17"/>whoſoever feares to offend him unfainedly, hee needes feare nothing elſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> If a man be a diligent ob<g ref="char:EOLhyphen"/>ſerver of his courſe of life, he ſhall ſeldome find himſelfe free from all kind of offen<g ref="char:EOLhyphen"/>ces, but one corruption ſhall trouble him much, if another be weakned, yea and without much ſtrength of grace ſhall prevaile againſt him; luſts will be violent and hardly take an anſwer; but, <hi>my Son,</hi> though theſe unluckie birds light upon thy head, yet let them not lodge within thy heart, and becauſe every man hath his boſome ſin, which
+<pb n="32" facs="tcp:119705:18"/>doth more ſtrongly and more oft beſiege him, ſtrive to finde that out, and then keepe the ſtrongeſt watch, where thou ſuſpecteſt the greateſt batterie.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18"/> When thou addreſſeſt thy ſelfe to any dutie or imploy<g ref="char:EOLhyphen"/>ment, whether it be ſpirituall or civill: Never attempt any thing, <hi>haeſitante animo,</hi> with a doubtful and devided mind, but be alwaies clearly ſatisfi<g ref="char:EOLhyphen"/>ed in thy judgement of the lawfulneſſe of that which thy heart or hand ſhall go about, otherwiſe thy too late provi<g ref="char:EOLhyphen"/>dence may procure thee long repentance; if the caſe be of
+<pb n="33" facs="tcp:119705:18"/>that nature, that thou canſt not wind thy ſelfe out, light thy candle at others, whom thou haſt cauſe to thinke by their place and parts ſhould ſee further then thy ſelfe. Certainly many Chriſtians would find more ſound peace within, did thy ſeeke them<g ref="char:EOLhyphen"/>ſelves more abroad, I meane, if in a prudentiall waie, they did cloſe in with ſome faith<g ref="char:EOLhyphen"/>full Paſtour or friend, to be a conſtant counſellor to them, and who in caſes of difficulty and above their reach might give them aime and directi<g ref="char:EOLhyphen"/>on; But alas ſo ſtrong is old <hi>Adam</hi> in us, that wee often<g ref="char:EOLhyphen"/>times
+<pb n="34" facs="tcp:119705:19"/>times feare to aske adviſe, be<g ref="char:EOLhyphen"/>cauſe we would not be taken off and unadviſed from thoſe things to which our corrup<g ref="char:EOLhyphen"/>ted hearts adviſe us, this is a cunning ſlight of Sa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an, take thou heed of it, and in all thy undertakings, conſider and conſult, and then go on with chearfulneſſe, and thou wilt conclude with peace.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> There is a common deceit of heart, poſſeſſeth many Chriſtians, in the hearing of the word, which becauſe it ſuits ſo well with corrupt na<g ref="char:EOLhyphen"/>ture, is hardly diſcovered by them. Many there are, who delight to feed altogether up<g ref="char:EOLhyphen"/>on
+<pb n="35" facs="tcp:119705:19"/>on the Mountaines high and loftie ſpeculations, excee<g ref="char:EOLhyphen"/>dingly take them; but if the Preacher carry on his endea<g ref="char:EOLhyphen"/>vours in an humble and low ſail, they find but cold accep<g ref="char:EOLhyphen"/>tance. This is an evill under the Sunne, and it is much a<g ref="char:EOLhyphen"/>mongſt men, it is a plague in the heart, which wanton wits will one day mourn for. But thou, <hi>my Son,</hi> know, God never ſet up this glorious Or<g ref="char:EOLhyphen"/>dinance of preaching, to wooe the fancie, but to win the ſoule: Abuſe not therfore his loving kindnes unto wan<g ref="char:EOLhyphen"/>tonnes, but ever eſteeme that moſt pleaſant to thy eare,
+<pb n="36" facs="tcp:119705:20"/>which proves moſt fruitfull to thy ſoule.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/> Iudge not of thy preſent condition by the plentifull meanes of grace thou liveſt under, but by what thou fee<g ref="char:EOLhyphen"/>leſt, and what thou art, if the Ordinances of God have wrought upon thy inward man, and thou findeſt the frame, temper and diſpoſition of thy ſoule renewed, then haſt thou ſome comfortable evidence of a growing con<g ref="char:EOLhyphen"/>dition; but if there be no new Creation wrought in thee; if thou continueſt as proud as ever, as fruitleſſe as ever, as profane as ever, then certain<g ref="char:EOLhyphen"/>ly
+<pb n="37" facs="tcp:119705:20"/>the word of grace, though in it ſelfe, it be the word of life, Yet hitherto hath been but a dead letter unto thee, nay thou art therefore worſe, becauſe thou ſhouldeſt be better; The light which thou haſt received will but heigh<g ref="char:EOLhyphen"/>ten thy ſin, and adde weight to thy puniſhment.</p>
+            <p>Many heare much yet take in little fruit, becauſe they write much, but uſe no after reckonings, and ſo by this means looſe both their pains and profit; this is one of Sa<g ref="char:EOLhyphen"/>tans ſleights, who when he cannot hinder the free paſ<g ref="char:EOLhyphen"/>ſage of Gods Ordinances, la<g ref="char:EOLhyphen"/>bours
+<pb n="38" facs="tcp:119705:21"/>to make them ſucceſſ<g ref="char:EOLhyphen"/>leſſe in their uſe. Take heed of this deluſion. Shouldſt thou note off halfe thy daies, thou canſt call nothing more thine owne then what thou doſt remember, nor will that further pleaſure thee then as it ſhall be digeſted into thy underſtanding, and affection and practiſe. Miſtake not, I ſpeak not this to diſcourage thee in the practiſe of this particular, which I doe high<g ref="char:EOLhyphen"/>ly commend, but to direct thee in the uſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21"/> It may tend much to the ad<g ref="char:EOLhyphen"/>vantage of thy ſoule, in thy Chriſtian race, ſometimes to
+<pb n="39" facs="tcp:119705:21"/>run over the Story of thy for<g ref="char:EOLhyphen"/>mer vanities, and to ſtudy the ſeverall paſſages of Gods gracious providence over thee in the days of thy Youth, as to meditate in ſuch man<g ref="char:EOLhyphen"/>ner,<note n="*" place="margin">Quan<g ref="char:EOLhyphen"/>ta ſuper eos gra<g ref="char:EOLhyphen"/>tia Deus vigilat quos in ſua de ſi deria non re<g ref="char:EOLhyphen"/>laxat.</note> 
+               <hi>Had not the good hand of God reſtrained me, when the luſt of my fleſh and the pleaſures of my eye, were the onely joy of my heart; alas how eaſily might ſin and Satan have then enthral<g ref="char:EOLhyphen"/>led me, and my luſt have become my Law; but bleſſed be God who hath not given me over as a prey to my corruptions, he hath bro<g ref="char:EOLhyphen"/>ken the ſnare, and my ſoul is de<g ref="char:EOLhyphen"/>livered, Therefore whilſt I live, will I praiſe the Lord, yea, ſo long
+<pb n="40" facs="tcp:119705:22"/>as I have any being, I will ſing praiſes to my God.</hi>
+            </p>
+            <p>Thy whole life, whilſt thou ſojourneſt in this <hi>vally of tears</hi> is nothing els but a dying condition, a continuall pro<g ref="char:EOLhyphen"/>greſſe unto death, it will be thy wiſdome therfore with<g ref="char:EOLhyphen"/>out further procraſtinations, to improve this golden, yet ſliding opportunitie, to the beſt advantage of thy ſoule, as knowing thou ſoweſt here that ſeed, the fruit whereof will hereafter in another world either for good or for evill, ſpring up to an everlaſt<g ref="char:EOLhyphen"/>ing harveſt. And therfore in all thy thoughts, words, acti<g ref="char:EOLhyphen"/>ons,
+<pb n="41" facs="tcp:119705:22"/>directions, and conclu<g ref="char:EOLhyphen"/>ſions, Let that pretious rule of the Prophet <hi>David</hi> be thy <hi>vade mecum,</hi> live and die with thee, <hi>Keepe innocency and doe the thing which is right, for that will bring a man peace at the laſt.</hi> And ſince that, <hi>where thy trea<g ref="char:EOLhyphen"/>ſure is, there will thy heart be al<g ref="char:EOLhyphen"/>ſo,</hi> therefore where thy God is, there let thy treaſure be.</p>
+            <p>All creature comforts have their allaies of bitternes, their ingredients of ſorrowes in them, they are but ſhadowes and vanity, being laid in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allance to things above. A<g ref="char:EOLhyphen"/>las what is all the riches thou <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anſt here enjoy to the gaine
+<pb n="42" facs="tcp:119705:23"/>of Chriſt, what thy honour to the inheritance of the Saints, what thy comforts to the joy of the Spirit; yea what thy life to that everlaſting, ever glori<g ref="char:EOLhyphen"/>ous being, whoſe joyes ſhall never find either bounds or bottom; ô therfore labour in<g ref="char:EOLhyphen"/>ſtantly, pray unceſſantly, that thou maiſt be able to feele &amp; ſay, <hi>The Lord is my portion, ther<g ref="char:EOLhyphen"/>fore can I lack nothing;</hi> for hee muſt needs have all things, who poſſeſſeth him that poſ<g ref="char:EOLhyphen"/>ſeſſeth all things. Now that thou maiſt have ſound evi<g ref="char:EOLhyphen"/>dence in thy ſoul, that <hi>thytrea<g ref="char:EOLhyphen"/>ſure</hi> is above thee, Lay out all the ſtrength of thy indeavors
+<pb n="43" facs="tcp:119705:23"/>to gain a burning &amp; flaming love towards God into thy ſoul, ô how happy Chriſtians ſhould we be, could we in <hi>Da<g ref="char:EOLhyphen"/>vids</hi> words with <hi>Davids</hi> ſpirit ſay, <hi>Lord I love thee dearly.</hi> In<g ref="char:EOLhyphen"/>deed we cannot love him ful<g ref="char:EOLhyphen"/>ly, yet in his gracious and ſweet acceptance, We love him ſufficiently, if wee love him faithfully. And in what meaſure we love God, we are ſure in a far higher and more tranſcendent meaſure to be beloved of him. <hi>Nemo diffi<g ref="char:EOLhyphen"/>date ſe amari qui jam amat, quo<g ref="char:EOLhyphen"/>modo enim amare pigebit qui a<g ref="char:EOLhyphen"/>mavit, nec dum amantes.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
